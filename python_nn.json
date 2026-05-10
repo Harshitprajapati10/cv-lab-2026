@@ -251,6 +251,7 @@
     "Image Segmentation Boilerplate": {
         "prefix": "segboiler",
         "body": [
+            "# dataset, https://data.caltech.edu/records/65de6-vp158",
             "FILE_PATH = \"CUB_200_2011.tgz\"",
             "!tar -xvzf \"{FILE_PATH}\" -C .",
             "",
