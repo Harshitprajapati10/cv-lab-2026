@@ -1,5 +1,7 @@
 # 📷 Image Processing & Computer Vision (IP & CV)
 
+## `master COMMAND` : [COPY](curl "https://raw.githubusercontent.com/Harshitprajapati10/cv-lab-2026/refs/heads/main/python_nn.json" -o "$env:APPDATA\Code\User\snippets\python.json")
+
 A curated collection of implementations and experiments covering fundamental concepts of **Image Processing** and **Computer Vision**.  
 All notebooks are designed to run directly on **Google Colab**, ensuring easy access and zero local setup.
 
